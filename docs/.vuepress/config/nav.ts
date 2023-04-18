@@ -10,7 +10,7 @@ export default <Array<NavItem>>[
     items: [
       {
         text: "Quick Start",
-        link: "/pages/33ba0f/",
+        link: "/pages/fa6eb2/",
       },
       {
         text: "Adding Users to your Project",
