@@ -37,7 +37,7 @@ export default <UserPlugins>[
         'div[class*="language-"] pre',
         'div[class*="aside-code"] aside',
       ],
-      copyMessage: "复制成功",
+      copyMessage: "Copy success",
       duration: 1000,
       showInMobile: false,
     },

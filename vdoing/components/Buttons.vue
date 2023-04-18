@@ -60,22 +60,22 @@ export default {
       showModeBox: false,
       modeList: [
         {
-          name: '跟随系统',
+          name: 'Auto Mode',
           icon: 'icon-zidong',
           KEY: 'auto'
         },
         {
-          name: '浅色模式',
+          name: 'Light Mode',
           icon: 'icon-rijianmoshi',
           KEY: 'light'
         },
         {
-          name: '深色模式',
+          name: 'Dark Mode',
           icon: 'icon-yejianmoshi',
           KEY: 'dark'
         },
         {
-          name: '阅读模式',
+          name: 'Read Mode',
           icon: 'icon-yuedu',
           KEY: 'read'
         }

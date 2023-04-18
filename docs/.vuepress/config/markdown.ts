@@ -19,5 +19,5 @@ export default <MarkdownConfig>{
   extendMarkdown: (md) => {
     md.set({ breaks: true });
   },
-  extractHeaders: ["h2", "h3", "h4", "h5", "h6"], // 提取标题到侧边栏的级别，默认['h2', 'h3']
+  extractHeaders: ["h1", "h2", "h3", "h4", "h5", "h6"], // 提取标题到侧边栏的级别，默认['h2', 'h3']
 };

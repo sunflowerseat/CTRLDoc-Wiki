@@ -26,12 +26,16 @@ export default <Array<NavItem>>[
     text: "Link",
     items: [
       {
-        text: "Ctrldoc Website",
-        link: "https://k8suat.ctrldoc.com/web_ux/",
+        text: "About us",
+        link: "https://ctrldoc.com/",
       },
       {
-        text: "Contact Us",
+        text: "Goto Website",
         link: "https://k8suat.ctrldoc.com/",
+      },
+      {
+        text: "New version website",
+        link: "https://k8suat.ctrldoc.com/web_ux/",
       },
     ],
   },

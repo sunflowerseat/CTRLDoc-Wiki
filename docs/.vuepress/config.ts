@@ -9,8 +9,8 @@ import plugins from "./config/plugins";
 import head from "./config/head";
 
 export default defineConfig4CustomTheme<VdoingThemeConfig>({
-  title: "CTRLDoc", //站点标题, 建议修改
-  description: "CTRLDoc", //描述, 建议修改
+  title: "CTRLDoc-Wiki", //站点标题, 建议修改
+  description: "CTRLDoc-Wiki", //描述, 建议修改
   dest: "dist", //输出目录, 默认是 dist,无需修改
   base: "/CTRLDoc-Wiki/", //部署站点的基础路径, 默认是 /, 不懂不要开启
   shouldPrefetch: () => false, //是否开启预加载, 建议不开启, 无需修改
